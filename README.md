@@ -40,6 +40,8 @@ Este proyecto implementa dos topologías de **Redes Privadas Virtuales (VPN)** u
 | **PC1 (VPCS)** | e0 | 192.168.1.10 / 24 | Host LAN A |
 | **PC2 (VPCS)** | e0 | 192.168.2.10 / 24 | Host LAN B |
 
+![image alt](https://github.com/boss7284/d.u.m.p2/blob/de6fc092fb4d687ef11aa8f446404fc48008f786/Screenshot%202026-03-19%20212001.png)
+
 ---
 
 ## Configuraciones Técnicas — Site-to-Site
@@ -278,6 +280,8 @@ PC2> ip 192.168.2.10 192.168.2.1 24
 | **FortiGate** | port2 | 192.168.2.1 / 24 | LAN B — Gateway |
 | **PC1 (VPCS)** | e0 | 192.168.1.10 / 24 | Host LAN A |
 | **PC2 (VPCS)** | e0 | 192.168.2.10 / 24 | Host LAN B |
+
+![image alt](https://github.com/boss7284/d.u.m.p2/blob/de6fc092fb4d687ef11aa8f446404fc48008f786/Screenshot%202026-03-19%20203159.png)
 
 ---
 
