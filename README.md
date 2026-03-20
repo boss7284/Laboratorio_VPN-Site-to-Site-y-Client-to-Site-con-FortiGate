@@ -1,4 +1,4 @@
-# Practica-5-VPN-Site-to-Site-y-Client-to-Site-FortiGate-GNS3
+# Practica-6-VPN-Site-to-Site-y-Client-to-Site-FortiGate-GNS3
 
 **Asignatura:** Seguridad en Redes
 
